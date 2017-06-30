@@ -13,7 +13,7 @@
     <description></description>
     <display-name>Hello</display-name>
     <servlet-name>Hello</servlet-name>
-    <servlet-class>Hello</servlet-class>
+    <servlet-class>/first/src/Hello</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Hello</servlet-name>
